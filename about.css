@@ -1,0 +1,234 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color:#e9e4e4;
+}
+
+#heather {
+	text-align: center; display: block; margin: auto; width:auto; height: auto;
+}
+
+#logo {
+	color:#04469e;font-family:Bill ArchiType;font-size:45px; text-decoration:none; margin-right:990px;
+}
+
+#about {
+	font-family:Poppins;margin-top:10px;font-size:17px;
+	padding-bottom:10px;color:#242424;text-decoration:none;
+}
+
+#resume {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;
+	color:#242424;text-decoration:none; 
+}
+
+#works {
+	font-family:Poppins;padding-left:30px;font-size:17px;
+	color:#242424;text-decoration:none; 
+}
+
+#git {
+	font-family:Poppins;padding-left:30px;font-size:17px;margin-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+#about:hover {
+	color:#04469e;
+}
+
+#resume:hover {
+	color:#04469e;
+}
+
+#works:hover {
+	color:#04469e;
+}
+
+#git:hover {
+	color:#04469e;
+}
+
+h1 {
+	font-family:Andreas;color:#04469e; margin-left:130px; font-size: 80px;
+}
+
+#desc {
+	font-family:Poppins;color:#242424; margin-left:130px; font-size: 18px;
+}
+
+.eri {
+	width: 390px; height:550px; margin-left:1010px; margin-top:-550px;
+}
+
+.loc {
+	padding-top:-70px;margin-left:127px;width: 25px; height:25px;
+}
+
+.bday {
+	width: 25px; height:25px; margin-left:127px;
+}
+
+.wloc {
+	font-family:Poppins; color:#04469e;font-size:13px;margin-top:-21px; margin-left:163px;
+}
+
+.wbday {
+	font-family:Poppins; color:#04469e;font-size:13px;margin-top:-21px; margin-left:163px;
+}
+
+.swpics,.resumee,.cont {
+	background-color:#04469e; height:850px;width:1532px;margin-top:-40px; margin-left:-10px; margin-bottom:-150;
+}
+
+.arrow {
+	margin-left:727px;width: 70px; height:70px; 
+}
+
+h2 {
+	font-family:Andreas;color:#e9e4e4;font-size:70px;margin-left: 650px;
+}
+
+hr {
+	width:1300px; margin-left: 100px;
+}
+
+.year1 {
+	margin-left: 277px; font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px;
+}
+.year2 {
+	margin-left: 710px;font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px;margin-top: -57px;
+}
+
+.year3 {
+	margin-left:1125px;font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px; margin-top: -57px;
+}
+
+.wexperience {
+	background-color:#242424; border-radius:30px; Poppins;font-weight: bold;color:#e9e4e4;padding: 8px 32px;width: 207px; margin-left: 100px;
+}
+
+.year1desc {
+	margin-left: -880px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-10px;
+}
+
+.year2desc {
+	margin-left: 15px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-98px;
+}
+
+.year3desc {
+	margin-left: 925px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-98px;
+}
+
+.wsoftware {
+	background-color:#242424; border-radius:30px; Poppins;font-weight: bold;color:#e9e4e4;padding: 8px 32px;
+	width: 195px; margin-left: 100px;
+}
+
+.ind,.ps,.canva {
+	width: 90px; height: 90px;
+}
+
+.ind {
+	margin-left: 95px;
+}
+
+.ps,.canva {
+	margin-left: 50px;
+}
+
+.wsoftksills {
+	background-color:#242424; border-radius:30px; Poppins;font-weight: bold;color:#e9e4e4;padding: 8px 32px;
+	width: 195px; margin-left: 660px; margin-top: -958px;
+}
+
+.softpng {
+	width:auto;height:120px; margin-left: 655px; margin-top:10px;
+}
+
+.weducation {
+	background-color:#242424; border-radius:30px; Poppins;font-weight: bold;color:#e9e4e4;padding: 8px 32px;
+	width: 195px; margin-left: 100px;
+}
+
+.school1 {
+	margin-left: -880px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-10px;
+}
+
+.school2 {
+	margin-left: 22px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-72px;
+}
+
+.school3 {
+	margin-left: 900px; font-family: Poppins; color:#e9e4e4; font-size: 18px; text-align:center;margin-top:-72px;
+}
+
+.elementary {
+	margin-left: 235px; font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px;
+}
+
+
+.highschool {
+	margin-left: 683px;font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px;margin-top: -56px;
+}
+
+.tertiary {
+	margin-left:1145px;font-family: Poppins;font-weight: bold; color:#de9339; font-size: 23px; margin-top: -58px;
+}
+
+.cont {
+	background-color:#e9e4e4; height:144px; margin-top:650px;
+}
+
+.up {
+	margin-left:727px;width: 70px; height:70px; margin-top:-300px;
+}
+
+#logof {
+	margin-left:505px;color:#04469e;font-family:Bill ArchiType;font-size:45px; text-decoration:none; 
+	margin-right:50px;
+}
+
+#aboutf {
+	font-family:Poppins;padding-top:10px;font-size:17px;
+	padding-bottom:10px;color:#242424;text-decoration:none;
+}
+
+#resumef {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#worksf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#gitf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#aboutf:hover {
+	color:#04469e;
+}
+
+#resumef:hover {
+	color:#04469e;
+}
+
+#worksf:hover {
+	color:#04469e;
+}
+
+#gitf:hover {
+	color:#04469e;
+}
+
+#footer {
+	margin-top: 60px;
+}
+
+.frame {
+	 margin-left: -212px; width:auto; height:140px; margin-top:-3020px;
+}

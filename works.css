@@ -1,0 +1,185 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color:#242424; height: auto;
+}
+
+#heather {
+	text-align: center; display: block; margin: auto; width:auto; height: auto;
+}
+
+#logo {
+	color:#e9e4e4;font-family:Bill ArchiType;font-size:45px; text-decoration:none; margin-right:990px;
+}
+
+#about {
+	font-family:Poppins;padding-top:10px;font-size:17px;
+	padding-bottom:10px;color:#e9e4e4;text-decoration:none;
+}
+
+#resume {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#works {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#git {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#about:hover {
+	color:#de9339;
+}
+
+#resume:hover {
+	color:#de9339;
+}
+
+#works:hover {
+	color:#de9339;
+}
+
+#git:hover {
+	color:#de9339;
+}
+
+h2 {
+	font-family:Andreas;color:#e9e4e4;font-size:70px;
+}
+
+.frame {
+	 width:auto; height:140px; margin-top:-160px;
+}
+
+.desc {
+	background-color:#04469e; border-radius:30px; Poppins;color:#e9e4e4;padding: 8px 32px;
+	width: 275px; display: block; margin: auto;
+}
+
+.pics,.footer {
+	background-color:#e9e4e4; height:auto;width:1400px;
+	border-radius:30px; display:block;margin:auto; padding-bottom: 50px;
+}
+
+.infog,.orgp,.mag {
+	font-family:poppins;color:#242424;margin-left:100px;font-size:25px;font-weight:bold;margin-top:-40px;
+}
+
+.sixteen,.four,.nine,.seventeen,.nineteen,.twosix,.thirty,.threethree,.threesix {
+	margin-left:80px; 
+} 
+
+
+
+.sixteen,.six,.ten,.four,.seven,.five,.nine,.eleven,.two {
+	width:400px; heigth:auto; padding:40px; transition: width 1s;
+}
+
+.sixteen:hover,.six:hover,.ten:hover,.four:hover,.seven:hover,.five:hover,.nine:hover,.eleven:hover,.two:hover {
+	width:470px; height:auto;
+}
+
+.seventeen,.twofour,.twofive,.twoone,.twotwo,.nineteen {
+	width:400px; height:auto; padding:40px; transition: width 1s;
+}
+
+.seventeen:hover,.twofour:hover,.twofive:hover,.twoone:hover,.twotwo:hover,.nineteen:hover {
+	width:450px; heigth:auto
+}
+
+.twosix,.twoseven,.twoeight {
+	width:400px; height:auto; padding:40px; transition: width 1s;
+}
+
+.twosix:hover,.twoseven:hover,.twoeight:hover {
+	width:450px; height:auto;
+}
+
+.thirty,.threeone,.threetwo {
+	width:400px; height:auto; padding:40px; transition: width 1s;
+}
+
+.thirty:hover,.threeone:hover,.threetwo:hover {
+	width:450px; height:auto;
+}
+
+.threethree,.threefour,.threefive {
+	width:400px; height:auto; padding:40px; transition: width 1s;
+}
+
+.threethree:hover,.threefour:hover,.threefive:hover {
+	width:450px; height:auto;
+}
+
+.threesix,.threeseven,.threeeight {
+	width:400px; height:auto; padding:40px; transition: width 1s;
+}
+
+.threesix:hover,.threeseven:hover,.threeeight:hover {
+	width:450px; height:auto;
+}
+
+#logof {
+	margin-left:505px;color:#e9e4e4;font-family:Bill ArchiType;font-size:45px; text-decoration:none; 
+	margin-right:50px;
+}
+
+#aboutf {
+	font-family:Poppins;padding-top:10px;font-size:17px;
+	padding-bottom:10px;color:#e9e4e4;text-decoration:none;
+}
+
+#resumef {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#worksf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#gitf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#aboutf:hover {
+	color:#de9339;
+}
+
+#resumef:hover {
+	color:#de9339;
+}
+
+#worksf:hover {
+	color:#de9339;
+}
+
+#gitf:hover {
+	color:#de9339;
+}
+
+#footer {
+	margin-top: 60px;
+}
+
+.up {
+	margin-left:710px;width: 70px; height:70px; margin-top:-310px;
+}
+
+
+#cont {
+	height:144px; background-color:#242424; margin-left: -20px;
+}
+
+#worksfr {
+	text-align: center; display: block; margin: auto;
+}
