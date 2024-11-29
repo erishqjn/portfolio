@@ -1,0 +1,101 @@
+@font-face {
+	font-family: Andreas;
+	src:url(Andreas.ttf);
+}
+
+@font-face {
+	font-family: Poppins;
+	src:url(Poppins-Regular.ttf);
+}
+
+@font-face {
+	font-family: Bill ArchiType;
+	src:url(Bill ArchiType Regular.otf);
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color:#04469e;
+}
+
+#heather {
+	text-align: center; display: block; margin: auto; width:auto; height: auto;
+}
+
+#logo {
+	color:#e9e4e4;font-family:Bill ArchiType;font-size:45px; text-decoration:none; margin-right:990px;
+}
+
+#about {
+	font-family:Poppins;margin-top:10px;font-size:17px;
+	padding-bottom:10px;color:#e9e4e4;text-decoration:none;
+}
+
+#resume {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#works {
+	font-family:Poppins;padding-left:30px;font-size:17px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#git {
+	font-family:Poppins;padding-left:30px;font-size:17px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#about:hover {
+	color:#242424;
+}
+
+#resume:hover {
+	color:#242424;
+}
+
+#works:hover {
+	color:#242424;
+}
+
+#git:hover {
+	color:#242424;
+}
+
+#wport {
+	font-family:Andreas;font-size:130px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+#wresume {
+	font-family:Andreas;font-size:130px;
+	color:#e9e4e4;text-decoration:none; 
+}
+
+.buttongtkm {
+	background-color: #242424; border: none; color:#e9e4e4; padding: 15px 32px; text-align: center;text-decoration:none;
+  	display: inline-block; font-size: 16px; margin: 4px 2px;font-family:Poppins; margin-top:20px; border-radius: 30px;
+  	box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+    transition: all .3s ease-in-out;
+}
+
+.buttongtkm:hover {
+	background-color:#de9339; color:#e9e4e4; box-shadow: rgba(0, 0, 0, 0.22) 0px 19px 43px;
+  transform: translate3d(0px, -1px, 0px);
+}
+
+#main {
+	text-align: center; display: block; margin: auto;
+}
+
+#mainbutton {
+	text-align: center; display: block; margin: auto;
+}
+
+#markie {
+	text-align: center; display: block; margin: auto;
+}

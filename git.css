@@ -1,0 +1,223 @@
+@font-face {
+	font-family: Andreas;
+	src:url(Andreas.ttf);
+}
+
+@font-face {
+	font-family: Poppins;
+	src:url(Poppins-Regular.ttf);
+}
+
+@font-face {
+	font-family: Bill ArchiType;
+	src:url(Bill ArchiType Regular.otf);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+	background-color:#e9e4e4; height: auto;
+}
+
+#heather {
+	text-align: center; display: block; margin: auto; width:auto; height: auto;
+}
+
+#logo {
+	color:#04469e;font-family:Bill ArchiType;font-size:45px; text-decoration:none; margin-right:990px;
+}
+
+#about {
+	font-family:Poppins;padding-top:10px;font-size:17px;
+	padding-bottom:10px;color:#242424;text-decoration:none;
+}
+
+#resume {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#works {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#git {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#about:hover {
+	color:#04469e;
+}
+
+#resume:hover {
+	color:#04469e;
+}
+
+#works:hover {
+	color:#04469e;
+}
+
+#git:hover {
+	color:#04469e;
+}
+
+h2 {
+	font-family:Andreas;color:#04469e;font-size:70px;margin-left: 150px;
+}
+
+.frame {
+	 margin-left: 100px; width:auto; height:140px; margin-top:-160px;
+}
+
+
+.mailpng {
+	margin-left: 55px; width:470px; height:auto; padding:20px;
+}
+
+.instapng {
+	width:470px; height:auto; padding:20px;
+    transition: width 1s;
+}
+
+.instapng:hover {
+	width:480px; height:auto;
+}
+
+.fbpng {
+	width:470px; height:auto; padding:20px;
+    transition: width 1s; 
+}
+
+.fbpng:hover {
+	width:480px; height:auto;
+}
+
+.mailw {
+	font-size:20px; color: #e9e4e4; font-family:poppins; margin-left:190px; margin-top:-100px;
+}
+
+.instaw {
+	font-size:20px; color: #e9e4e4; font-family:poppins; margin-left:825px; margin-top:-40px;
+}
+
+.fbw {
+	font-size:20px; color: #e9e4e4; font-family:poppins; margin-left:1275px; margin-top:-40px;
+}
+
+.formdesc {
+	font-size:18px; color: #242424; font-family:poppins; margin:auto; text-align: center;
+}
+
+.roro {
+	background-color:#242424; height:auto;width:1532px;
+}
+
+h3 {
+	font-family:Andreas;color:#e9e4e4;font-size:70px;margin-left: 685px;
+}
+
+.formframe {
+	margin-left: 590px; width:auto; height:140px; margin-top:-160px;
+}
+
+.down {
+	margin-left:727px;width: 70px; height:70px; margin-top:-40px;
+}
+
+#fname {
+	color:#e9e4e4; font-size: 25px; margin-left:720px; font-weight:bold; font-family: poppins;
+}
+
+#social {
+	color:#e9e4e4; font-size: 25px; margin-left:670px; font-weight:bold; font-family: poppins;
+}
+
+#name,#email,#fb {
+	margin-left:405px; width: 700px; font-family:poppins; text-align: center;
+}
+
+#deets {
+	color:#e9e4e4; font-size: 25px; margin-left:668px; font-weight:bold; font-family: poppins;
+}
+
+#tadeets {
+	margin-left:405px; width: 700px;
+}
+
+#ddlw {
+	color:#e9e4e4; font-size: 25px; margin-left:658px; font-weight:bold; font-family: poppins;
+}
+
+#ddl {
+	margin-left:405px; width: 700px; text-align: center; font-family: poppins;
+}
+
+#submitbtn  {
+	width:300px;background-color: #04469e; border: none; color:#e9e4e4; padding: 15px 32px; text-align: center;text-decoration:none;
+  	display: inline-block; font-size: 16px; margin: 4px 2px;font-family:Poppins; margin-left:615px;margin-top:20px; border-radius: 30px;
+  	box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px;
+    transition: all .3s ease-in-out; font-weight: bold;
+}
+
+#submitbtn:hover {
+	background-color:#de9339; color:#e9e4e4; box-shadow: rgba(130,130,130, 0.3) 0px 19px 43px;
+  transform: translate3d(0px, -1px, 0px);
+}
+
+.up {
+	margin-left:747px;width: 70px; height:70px; margin-top:-40px;
+}
+
+#logof {
+	margin-left:500px;color:#04469e;font-family:Bill ArchiType;font-size:45px; text-decoration:none; 
+	margin-right:50px;
+}
+
+#aboutf {
+	font-family:Poppins;padding-top:10px;font-size:17px;
+	padding-bottom:10px;color:#242424;text-decoration:none;
+}
+
+#resumef {
+	font-family:Poppins;padding-right:10px;padding-left:40px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#worksf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#gitf {
+	font-family:Poppins;padding-left:30px;font-size:17px;padding-top:10px;padding-bottom:10px;
+	color:#242424;text-decoration:none; 
+}
+
+#aboutf:hover {
+	color:#04469e;
+}
+
+#resumef:hover {
+	color:#04469e;
+}
+
+#worksf:hover {
+	color:#04469e;
+}
+
+#gitf:hover {
+	color:#04469e;
+}
+
+#footer {
+	margin: 10px;
+}
+
+.socpngs {
+	display:block; margin: auto;
+}
+
