@@ -1,3 +1,18 @@
+@font-face {
+	font-family: Andreas;
+	src:url(Andreas.ttf);
+}
+
+@font-face {
+	font-family: Poppins;
+	src:url(Poppins-Regular.ttf);
+}
+
+@font-face {
+	font-family: Bill ArchiType;
+	src:url(Bill ArchiType Regular.otf);
+}
+
 html {
   scroll-behavior: smooth;
 }
